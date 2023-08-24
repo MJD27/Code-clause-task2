@@ -20,21 +20,19 @@ The Basic Text Editor is a desktop application that enables users to create, edi
 
 To run the Basic Text Editor on your local machine, follow these steps:
 
-1. **Prerequisites**: Make sure you have [Python](https://www.python.org/) (or another programming language of choice) and any necessary libraries or frameworks installed.
-
-2. **Clone the Repository**: Clone this repository to your local machine using the following command:
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/MJD27/Code-clause-task2.git
    ```
 
-3. **Navigate to the Project Directory**: Use the terminal or command prompt to move into the project directory:
+2. **Navigate to the Project Directory**: Use the terminal or command prompt to move into the project directory:
 
    ```bash
    cd Code-clause-task2
    ```
 
-4. **Run the Application**: Run index.html file
+3. **Run the Application**: Run index.html file
 
 ## Acknowledgments
 
