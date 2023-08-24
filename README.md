@@ -34,11 +34,7 @@ To run the Basic Text Editor on your local machine, follow these steps:
    cd Code-clause-task2
    ```
 
-4. **Run the Application**: Execute the main application file (e.g., `main.py`):
-
-   ```bash
-   python main.py
-   ```
+4. **Run the Application**: Run index.html file
 
 ## Acknowledgments
 
